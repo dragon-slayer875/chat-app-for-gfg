@@ -4,7 +4,7 @@ const ChatsPage = (props) => {
     return (
         <div style={{height: '100vh'}}>
             <PrettyChatWindow
-                projectId='9f8d32c0-24ef-44d3-9200-984a3bef16ac'
+                projectId='e3868a40-3bb9-4766-8434-34f6e73287d2'
                 username = {props.user.username}
                 secret = {props.user.secret}
                 style={{height: '100%'}}
